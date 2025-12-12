@@ -20,7 +20,7 @@ export const Contact: React.FC = () => {
                     </div>
                     <div>
                       <p className="text-muted text-sm">Phone</p>
-                      <p className="text-white font-medium">+1 917 555 0192</p>
+                      <p className="text-white font-medium">+91 851 207 4075</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">
@@ -29,7 +29,7 @@ export const Contact: React.FC = () => {
                     </div>
                     <div>
                       <p className="text-muted text-sm">Email</p>
-                      <p className="text-white font-medium">satyendra.kumar@design.com</p>
+                      <p className="text-white font-medium">saty.web@gmail.com</p>
                     </div>
                   </div>
                 </div>

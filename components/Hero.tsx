@@ -52,7 +52,7 @@ export const Hero: React.FC = () => {
               />
               {/* Badge Overlay */}
               <div className="absolute -bottom-10 -left-10 bg-card p-6 rounded-2xl border border-white/10 shadow-xl max-w-xs">
-                 <div className="text-4xl font-bold text-white mb-1">10+</div>
+                 <div className="text-4xl font-bold text-white mb-1">9+</div>
                  <div className="text-primary font-medium">Years Of Experience</div>
                  <div className="text-muted text-sm mt-2">Specialized in scalable frontend architecture</div>
               </div>
