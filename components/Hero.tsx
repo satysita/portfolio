@@ -43,7 +43,7 @@ export const Hero: React.FC = () => {
            <div className="relative z-10">
               {/* Image set to banner.png with original layout constraints */}
               <img 
-                src="/banner.png" 
+                src="/images/banner.jpg" 
                 alt="Satyendra Kumar - UX Designer" 
                 className="rounded-2xl shadow-2xl transition-all duration-500 object-cover h-[600px] w-full border border-white/5 bg-dark"
                 onError={(e) => {

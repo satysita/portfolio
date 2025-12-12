@@ -1,5 +1,5 @@
 {
-  "name": "myapp",
+  "name": "satyendra-kumar---react-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "lucide-react": "^0.560.0",
+    "nodemon": "^3.1.11",
     "react": "^19.2.1",
     "react-dom": "^19.2.1"
   },

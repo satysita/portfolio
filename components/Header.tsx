@@ -21,7 +21,7 @@ export const Header: React.FC = () => {
            {/* Placeholder for the user's logo. Replace src with actual logo path if available. */}
            <div className="w-10 h-10 md:w-12 md:h-12 relative flex-shrink-0">
              <img 
-               src="https://placehold.co/100x100/FF2E5B/FFFFFF?text=SK" 
+               src=" /images/logo.png " 
                alt="SK Logo" 
                className="w-full h-full object-contain rounded-lg"
                onError={(e) => {
